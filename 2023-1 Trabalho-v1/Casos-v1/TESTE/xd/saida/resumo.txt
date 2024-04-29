@@ -1,0 +1,4 @@
+Movimento 4 (a) colidiu na parede
+Movimento 5 (w) colidiu na parede
+Movimento 6 (w) colidiu na parede
+Movimento 21 (w) fim de jogo por encostar em um fantasma
